@@ -1,3 +1,7 @@
 1/18/18
-Met with Stapleton to discuss DIS topic
-learned about GitHub
+Met with Stapleton to discuss DIS topic: will be working with Thomas on VQTL
+learned about GitHub and made repository
+
+1/23/18
+began working through the DataCamp tutorial for R (completed 3/6 tutorials)
+Met with Sara to teach her forensics methods used for data collection in lab: showed her where to find protocols, how to fill PCR tubes, and create primer dilutions
