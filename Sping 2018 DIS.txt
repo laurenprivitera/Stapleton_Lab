@@ -15,6 +15,9 @@ Week of 1/29/18 - 2/2/18
 Had the flu so did not make much progress on project 
 
 2/6/18
-began to work through DataCamp tutorial on ggplot
+worked through entire DataCamp tutorial on ggplot
+made account on synapse
+worked with Sarah and answered questions about PCR
+began reading paper on VQTL
 
 
