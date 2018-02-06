@@ -11,3 +11,10 @@ finished work on R tutorials and began ones on data visualization
 Finished showing Sarah the forensics methods, showed her how to design a master mix for each primer
 began with Thomas on the basics of ggplot
 
+Week of 1/29/18 - 2/2/18
+Had the flu so did not make much progress on project 
+
+2/6/18
+began to work through DataCamp tutorial on ggplot
+
+
