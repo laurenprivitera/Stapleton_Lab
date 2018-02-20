@@ -4,7 +4,8 @@ learned about GitHub and made repository
 
 1/23/18
 began working through the DataCamp tutorial for R (completed 3/6 tutorials)
-Met with Sarah to teach her forensics methods used for data collection in lab: showed her where to find protocols, how to fill PCR tubes, and create primer dilutions
+Met with Sarah to teach her forensics methods used for data collection in lab: showed her where to find protocols, how to fill PCR tubes, 
+and create primer dilutions
 
 1/25/18
 finished work on R tutorials and began ones on data visualization 
@@ -31,3 +32,7 @@ spoke with Thomas on BioMercator
 was not in the lab due to being at a conference in Knoxville, TN
 
 2/20/18
+New goals/ objectives: "The next step is to make a graphic that explains vQTL results.  First, take a look at our previous Stapleton lab scientific articles
+and sketch how we made the graphics. Then find other examples of doing this well (ie not a manhattan plot of P value, but something more informative)."
+
+Went over to Dr. Rhodes lab to look at PCR machine. looked up protocol online and began writing program for DNA
