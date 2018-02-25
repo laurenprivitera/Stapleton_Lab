@@ -35,4 +35,7 @@ was not in the lab due to being at a conference in Knoxville, TN
 New goals/ objectives: "The next step is to make a graphic that explains vQTL results.  First, take a look at our previous Stapleton lab scientific articles
 and sketch how we made the graphics. Then find other examples of doing this well (ie not a manhattan plot of P value, but something more informative)."
 
-Went over to Dr. Rhodes lab to look at PCR machine. looked up protocol online and began writing program for DNA
+Went over to Dr. Rhodes lab to look at PCR machine. looked up protocol online and began writing program for DNA.
+
+2/22/18
+continued work with vQTL
