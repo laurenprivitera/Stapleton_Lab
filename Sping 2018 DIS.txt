@@ -39,3 +39,16 @@ Went over to Dr. Rhodes lab to look at PCR machine. looked up protocol online an
 
 2/22/18
 continued work with vQTL
+
+3/13/18
+read "Loci That Control Nonlinear, Interdependent Responses to Combinations of Drought and Nitrogen Limitation"
+	quantitative trait loci
+	using single genetic coefficients and a one-SNP-one input relationship, the models partition the phenotypes' variances into additive components that are each determined by a single QTL
+	the set of dimensions forms a point in an n-dimensional space, and each point corresponds to an experimental unit such as a plant,row, or plot...together, the set of points that have the same definitions for each dimension comprise a phenotypes
+	when a single trait responds to a single stress, it will produce a two-dimensional function lying in a plane, which are valid
+	combinations of two or more stresses, or changes in more than one phenotypic dimension, push the phenotypic response function from the plane to surfaces in three or more dimensions, which is complex
+	
+Notes from Stapleton:
+>graphs using vqtl package with one SNP
+>take the global mean
+>instead of SNP on the row, call it QTL
