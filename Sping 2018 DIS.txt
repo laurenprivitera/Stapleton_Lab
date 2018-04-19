@@ -51,7 +51,7 @@ read "Loci That Control Nonlinear, Interdependent Responses to Combinations of D
 Notes from Stapleton:
 >graphs using vqtl package with one SNP
 >take the global mean
->instead of SNP on the row, call it QTL
+>instead of SNP on the row, call it vQTL
 
 3/15/18
 continued reading paper; asked Thomas questions I had 
@@ -71,3 +71,7 @@ was out of town for the Easter holiday
 Week of 4/3/18 and 4/5/18
 Did not make as much progress as I would have liked due to interviews for jobs post graduation
 Made myself available to Sarah on slack to answer questions --> need to ask her for a report on any progress that she has made
+
+4/19/18
+continued work with VQTL
+worked with Thomas on any questions I had
